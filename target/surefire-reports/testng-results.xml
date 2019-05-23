@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PopToolSuite" duration-ms="14" started-at="2019-05-10T19:22:21Z" finished-at="2019-05-10T19:22:21Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="14" started-at="2019-05-10T19:22:21Z" finished-at="2019-05-10T19:22:21Z">
+      <class name="com.liberty.homepage.PageLoadTitle">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.liberty.homepage.PageLoadTitle@5d76b067]" name="beforeSuite" is-config="true" duration-ms="8" started-at="2019-05-10T19:22:21Z" finished-at="2019-05-10T19:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="testPageTitle()[pri:0, instance:com.liberty.homepage.PageLoadTitle@5d76b067]" name="testPageTitle" duration-ms="1" started-at="2019-05-10T19:22:21Z" finished-at="2019-05-10T19:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.liberty.homepage.PageLoadTitle@5d76b067]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-05-10T19:22:21Z" finished-at="2019-05-10T19:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.liberty.homepage.PageLoadTitle@5d76b067]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-10T19:22:21Z" finished-at="2019-05-10T19:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.liberty.homepage.PageLoadTitle@5d76b067]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-05-10T19:22:21Z" finished-at="2019-05-10T19:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.liberty.homepage.PageLoadTitle -->
+    </test> <!-- Test1 -->
+  </suite> <!-- PopToolSuite -->
+</testng-results>

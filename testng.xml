@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="PopToolSuite" preserve-order="true" parallel="none" thread-count="3" configfailurepolicy="continue">
+
+ 
+ 	<test name="Test1">
+		<classes>
+			<class name="com.ihg.connector.hotelSearch.InterstateSearch" />
+			
+			</classes>
+	</test>		
+			
+
+ 
+ 
+</suite>

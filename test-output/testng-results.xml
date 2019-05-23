@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47485" started-at="2019-05-15T09:42:23Z" finished-at="2019-05-15T09:43:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47485" started-at="2019-05-15T09:42:23Z" finished-at="2019-05-15T09:43:10Z">
+      <class name="products.checkout.AddProductToCart">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:products.checkout.AddProductToCart@a38d7a3]" name="beforeSuite" is-config="true" duration-ms="6" started-at="2019-05-15T09:42:23Z" finished-at="2019-05-15T09:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="customBaseBeforeMethod()[pri:0, instance:products.checkout.AddProductToCart@a38d7a3]" name="customBaseBeforeMethod" is-config="true" duration-ms="19995" started-at="2019-05-15T09:42:23Z" finished-at="2019-05-15T09:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customBaseBeforeMethod -->
+        <test-method status="PASS" signature="testAddProductToCart()[pri:0, instance:products.checkout.AddProductToCart@a38d7a3]" name="testAddProductToCart" duration-ms="26896" started-at="2019-05-15T09:42:43Z" finished-at="2019-05-15T09:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProductToCart -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:products.checkout.AddProductToCart@a38d7a3]" name="afterMethod" is-config="true" duration-ms="581" started-at="2019-05-15T09:43:10Z" finished-at="2019-05-15T09:43:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddProductToCart status=SUCCESS method=AddProductToCart.testAddProductToCart()[pri:0, instance:products.checkout.AddProductToCart@a38d7a3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:products.checkout.AddProductToCart@a38d7a3]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-05-15T09:43:10Z" finished-at="2019-05-15T09:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- products.checkout.AddProductToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
